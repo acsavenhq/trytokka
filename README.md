@@ -1,23 +1,29 @@
 # TryTokka
 
+<p align="center">
+  <img src="https://acsaven.com/brand/products/trytokka-512.png" width="96" height="96" alt="TryTokka" />
+</p>
+
 **AI API spend alerts (Scout) for OpenAI, Anthropic, Gemini, and OpenRouter.**
 
-Built by **[Acsaven](https://github.com/acsavenhq)** â€” Tools that stay with you. Parent studio behind TryQuickImg, TryDevSnip, TryCalculatingNow, and TryTokka.
+Built by **[Acsaven](https://github.com/acsavenhq)** — Tools that stay with you.  
+Not TikTok. Not a proxy. Invoice-oriented spend monitoring.
 
-?? **[https://trytokka.com](https://trytokka.com/)** Â· [Acsaven hub](https://acsaven.com/) Â· [About Acsaven](https://acsaven.com/about/) Â· [llms.txt](https://acsaven.com/llms.txt)
+?? **[https://trytokka.com](https://trytokka.com/)** · [Acsaven hub](https://acsaven.com/) · [About](https://acsaven.com/about/) · [llms.txt](https://acsaven.com/llms.txt)
+
+<p align="center">
+  <img src="https://acsaven.com/brand/launches/gallery/ph-trytokka.png" width="640" alt="TryTokka gallery" />
+</p>
 
 ---
 
 ## Official site
 
-Use the **.com** product URL for the working tools: [https://trytokka.com/](https://trytokka.com/)
+Use the **.com** product URL: [https://trytokka.com/](https://trytokka.com/)
 
-This repository is a **public brand page** under the Acsaven organization. It is not the deployable application source.
+This repository is a **public brand page** under the Acsaven organization.  
+Product source org: [trytokka/trytokka](https://github.com/trytokka/trytokka).
 
-## Product org
-
-TryTokka also keeps its product GitHub org: [trytokka/trytokka](https://github.com/trytokka/trytokka).
-This Acsaven repo is the studio-side brand card that connects TryTokka to the Try family.
 ## Try family
 
 | Product | Site | GitHub brand page |
@@ -25,7 +31,7 @@ This Acsaven repo is the studio-side brand card that connects TryTokka to the Tr
 | TryQuickImg | [tryquickimg.com](https://tryquickimg.com/) | [acsavenhq/tryquickimg](https://github.com/acsavenhq/tryquickimg) |
 | TryDevSnip | [trydevsnip.com](https://trydevsnip.com/) | [acsavenhq/trydevsnip](https://github.com/acsavenhq/trydevsnip) |
 | TryCalculatingNow | [trycalculatingnow.com](https://trycalculatingnow.com/) | [acsavenhq/trycalculatingnow](https://github.com/acsavenhq/trycalculatingnow) |
-| TryTokka | [trytokka.com](https://trytokka.com/) | [acsavenhq/trytokka](https://github.com/acsavenhq/trytokka) Â· [trytokka/trytokka](https://github.com/trytokka/trytokka) |
+| TryTokka | [trytokka.com](https://trytokka.com/) | [acsavenhq/trytokka](https://github.com/acsavenhq/trytokka) · [trytokka/trytokka](https://github.com/trytokka/trytokka) |
 
 ## Links
 
