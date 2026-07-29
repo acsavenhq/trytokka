@@ -1,10 +1,10 @@
-﻿# TryTokka
+# TryTokka
 
 **AI API spend alerts (Scout) for OpenAI, Anthropic, Gemini, and OpenRouter.**
 
 Built by **[Acsaven](https://github.com/acsavenhq)** — Tools that stay with you. Parent studio behind TryQuickImg, TryDevSnip, TryCalculatingNow, and TryTokka.
 
-🌐 **[https://trytokka.com](https://trytokka.com/)** · [Acsaven hub](https://acsaven.pages.dev/) · [About Acsaven](https://acsaven.pages.dev/about/) · [llms.txt](https://acsaven.pages.dev/llms.txt)
+?? **[https://trytokka.com](https://trytokka.com/)** · [Acsaven hub](https://acsaven.com/) · [About Acsaven](https://acsaven.com/about/) · [llms.txt](https://acsaven.com/llms.txt)
 
 ---
 
@@ -30,6 +30,6 @@ This Acsaven repo is the studio-side brand card that connects TryTokka to the Tr
 ## Links
 
 - Product: [https://trytokka.com/](https://trytokka.com/)
-- Studio: [acsaven.pages.dev](https://acsaven.pages.dev/)
+- Studio: [acsaven.com](https://acsaven.com/)
 - Org: [github.com/acsavenhq](https://github.com/acsavenhq)
 - Contact: [hello.acsaven@gmail.com](mailto:hello.acsaven@gmail.com)
